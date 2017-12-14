@@ -1,0 +1,11 @@
+{
+  "name": "git-projects-overview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lochmann",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "simple-git": "^1.85.0"
+  }
+}
